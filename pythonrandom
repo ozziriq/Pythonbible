@@ -1,0 +1,11 @@
+#Just a little mepp.
+
+#Grab the email from a user, and strip spaces
+
+# Slice out the username and save as a variable.
+
+# slice out the domain name
+
+# Format the message
+
+# Display output message 
